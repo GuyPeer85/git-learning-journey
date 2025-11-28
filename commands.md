@@ -1,4 +1,4 @@
-# Git Commands I'm Learning
+# My Git Learning Journey - Version 1
 ## Commands Learned So Far
 - git clone
 - git status
