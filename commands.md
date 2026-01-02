@@ -9,3 +9,4 @@
 - Working Directory: Where you edit files
 - Staging Area: Files prepared for commit
 - Repository: Committed history in .git folder
+## Git Reset Practice
