@@ -12,3 +12,4 @@
 ## Git Reset Practice
 - git reset --soft (keeps staging)
 - git restore (discards working directory changes)
+BUG: This code breaks everything!
