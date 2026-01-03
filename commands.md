@@ -19,3 +19,4 @@
 - git stash apply (apply but keep in list)
 - git stash push -m "message" (stash with description)
 - git stash list (view all stashes)
+- git stash clear (delete all stashes)
