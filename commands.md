@@ -15,3 +15,5 @@
 - git reset HEAD <file> (unstage single file - old syntax)
 ## Git Stash Practice
 - git stash (save work temporarily)
+- git stash pop (apply and delete from list)
+- git stash apply (apply but keep in list)
