@@ -13,3 +13,5 @@
 - git reset --soft (keeps staging)
 - git restore (discards working directory changes)
 - git reset HEAD <file> (unstage single file - old syntax)
+## Git Stash Practice
+- git stash (save work temporarily)
