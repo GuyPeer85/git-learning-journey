@@ -13,4 +13,3 @@
 - git reset --soft (keeps staging)
 - git restore (discards working directory changes)
 - git reset HEAD <file> (unstage single file - old syntax)
-- git restore --source <commit> (restore from any commit)
