@@ -17,3 +17,4 @@
 - git stash (save work temporarily)
 - git stash pop (apply and delete from list)
 - git stash apply (apply but keep in list)
+- git stash push -m "message" (stash with description)
