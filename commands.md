@@ -25,3 +25,5 @@ Modified existing file
 Modified tracked file
 - git stash -a (include all files, even ignored)
 - git stash -p (interactive/selective stashing)
+- git stash clear (delete all stashes - PERMANENT!)
+- git stash branch <name> (create branch from stash)
