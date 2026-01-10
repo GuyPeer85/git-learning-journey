@@ -1,0 +1,7 @@
+Line 1: Original code
+Line 2: FEATURE A - new feature code
+Line 3: Original code
+Line 4: DEBUG - temporary debug code
+Line 5: Original code
+Line 6: FEATURE B - another feature
+Line 7: Original code
