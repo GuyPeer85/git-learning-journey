@@ -20,3 +20,5 @@
 - git stash push -m "message" (stash with description)
 - git stash list (view all stashes)
 - git stash clear (delete all stashes)
+Modified existing file
+- git stash -u (include untracked files)
