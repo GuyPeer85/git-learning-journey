@@ -27,3 +27,11 @@ Modified tracked file
 - git stash -p (interactive/selective stashing)
 - git stash clear (delete all stashes - PERMANENT!)
 - git stash branch <name> (create branch from stash)
+## Git Log Time Filters
+- git log --since="date" (commits after date)
+- git log --until="date" (commits before date)
+- git log --after="date" (alias for --since)
+- git log --before="date" (alias for --until)
+  - Relative: '1 week ago', 'yesterday', '3 days ago'
+  - Absolute: '2026-01-03' or '2026-01-03 00:00'
+  - Warning: Date without time uses current time!
