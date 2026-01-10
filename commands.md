@@ -24,3 +24,4 @@ Modified existing file
 - git stash -u (include untracked files)
 Modified tracked file
 - git stash -a (include all files, even ignored)
+- git stash -p (interactive/selective stashing)
