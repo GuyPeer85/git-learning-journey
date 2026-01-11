@@ -43,3 +43,9 @@ Modified tracked file
   - Committer = who created the commit
   - Usually same person, differs for GitHub web commits
   - Can combine with time filters
+## Git Log Content Search
+- git log -S "string" (pickaxe - find when string added/removed)
+- git log -G "pattern" (regex search in diffs)
+- git log --patch (show actual changes)
+  - -S finds exact string occurrence changes
+  - -G finds pattern matches in diffs (more flexible)
