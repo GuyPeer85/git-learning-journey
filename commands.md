@@ -35,3 +35,11 @@ Modified tracked file
   - Relative: '1 week ago', 'yesterday', '3 days ago'
   - Absolute: '2026-01-03' or '2026-01-03 00:00'
   - Warning: Date without time uses current time!
+## Git Log Author/Committer Filters
+- git log --author="name" (filter by author)
+- git log --committer="name" (filter by committer)
+  - Uses pattern matching (partial strings work)
+  - Author = who wrote the code
+  - Committer = who created the commit
+  - Usually same person, differs for GitHub web commits
+  - Can combine with time filters
